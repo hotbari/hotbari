@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=I'm Bari&type=waving" />
+  <img src="https://capsule-render.vercel.app/api?text=I'm%20Bari&type=waving" />
 
   <p>
     Python의 확장가능성을 신뢰하고 백엔드 개발에 깊은 열정을 가진 주니어 개발자입니다. <br>
@@ -8,18 +8,18 @@
   </p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=hotbari&show_icons=true&theme=transparent" />
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=I+believe+good+code+starts;with+good+questions!)](https://git.io/typing-svg)
-  
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=I+believe+good+code+starts;with+good+questions!" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotbari&layout=compact" />
 
   <h3 align="center">📫 Contact 📫</h3>
+  
   <a href="https://velog.io/@hotbari">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:tangycaco@gmail.com">
-    <img
-      src="https://img.shields.io/badge/tangycaco@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp;
   </a>
   
+  <a href="mailto:tangycaco@gmail.com">
+    <img src="https://img.shields.io/badge/tangycaco@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
+  </a>
 </div>
