@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hotbari's&type=venom)
+![header](https://capsule-render.vercel.app/api?text=Hotbari's&type=waving)
 
 ![Hotbari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotbari&show_icons=true&theme=transparent)
 
