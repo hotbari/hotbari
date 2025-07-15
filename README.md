@@ -8,7 +8,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 Contact 📫 </h2> <br> 
   
   <a href="https://velog.io/@hotbari">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
   
   <a href="mailto:tangycaco@gmail.com">
