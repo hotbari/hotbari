@@ -15,6 +15,19 @@
     real-world pain points and provide fundamental solutions through technology.
   </p>
 
+  <h3 align="center">🧱 Tech Stack 🧱</h3>
+  ### Language
+  <!--Python-->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <br/>
+  
+  ### Framework
+  <!--Django-->
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <!--Flask-->
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+  <br/>
+
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=hotbari&show_icons=true&theme=transparent" />  
   </p>
