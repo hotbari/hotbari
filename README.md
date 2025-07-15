@@ -7,7 +7,6 @@
 
   <h3 align="center">🍔 About Me 🍔</h3>
   <p>
-    Hello, Sunshine!
     I am a junior backend developer who believes in the scalability <br>
     of Python and is deeply passionate about backend development. <br>
     My goal is to build services that deliver optimal user experiences, <br>
