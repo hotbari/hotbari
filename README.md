@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?text=I'm%20Bari&type=waving" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=I+believe+good+code+starts;with+good+questions!" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=F7832E&multiline=true&width=435&lines=I+believe+good+code;starts+with+good+questions!" alt="Typing SVG" /></a>
 
   <p>
     Python의 확장가능성을 신뢰하고 백엔드 개발에 깊은 열정을 가진 주니어 개발자입니다. <br>
