@@ -5,7 +5,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=4689F7&center=true&vCenter=true&multiline=true&height=70&lines=I+believe+good+code;starts+with+good+questions!" alt="Typing SVG" /></a>
   </p>
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🍔 About Me 🍔 </h2> <br> 
-  <h3 align="center">🍔 About Me 🍔</h3>
   <p>
     I am a junior backend developer who believes in the scalability <br>
     of Python and is deeply passionate about backend development. <br>
