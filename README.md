@@ -9,7 +9,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=hotbari&show_icons=true&theme=transparent" />
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+believe+good+code+starts+with+good+questions.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=I+believe+good+code+starts;with+good+questions!)](https://git.io/typing-svg)
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotbari&layout=compact" />
 
