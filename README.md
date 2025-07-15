@@ -4,11 +4,12 @@
   <p>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=4689F7&center=true&vCenter=true&multiline=true&height=70&lines=I+believe+good+code;starts+with+good+questions!" alt="Typing SVG" /></a>
   </p>
-  
+
+  <h3 align="center">🍔 About Me 🍔</h3>
   <p>
-    Python의 확장가능성을 신뢰하고 백엔드 개발에 깊은 열정을 가진 주니어 개발자입니다. <br>
-    단일 조직을 넘어, 다양한 클라이언트에게 최적의 사용자 경험을 제공하는 서비스를 구현하는 것을 목표로 하고 있습니다. <br>
-    단순한 기능 구현을 넘어, 현장의 불편함을 이해하고 기술로써 근본적인 해결책을 제시하는 개발자가 되고자 합니다.
+    I am a junior backend developer who believes in the scalability of Python and is deeply passionate about backend development. <br>
+    My goal is to build services that deliver optimal user experiences, not just within a single organization but across diverse clients. <br>
+    Beyond implementing features, I aim to understand real-world pain points and provide fundamental solutions through technology. 
   </p>
 
   <p>
