@@ -7,9 +7,12 @@
 
   <h3 align="center">🍔 About Me 🍔</h3>
   <p>
-    I am a junior backend developer who believes in the scalability of Python and is deeply passionate about backend development. <br>
-    My goal is to build services that deliver optimal user experiences, not just within a single organization but across diverse clients. <br>
-    Beyond implementing features, I aim to understand real-world pain points and provide fundamental solutions through technology. 
+    I am a junior backend developer who believes in the scalability <br>
+    of Python and is deeply passionate about backend development. <br>
+    My goal is to build services that deliver optimal user experiences, <br>
+    not just within a single organization but across diverse clients. <br>
+    Beyond implementing features, <br>
+    I aim to understand real-world pain points and provide fundamental solutions through technology.
   </p>
 
   <p>
