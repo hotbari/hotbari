@@ -11,11 +11,14 @@
     단순한 기능 구현을 넘어, 현장의 불편함을 이해하고 기술로써 근본적인 해결책을 제시하는 개발자가 되고자 합니다.
   </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=hotbari&show_icons=true&theme=transparent" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=hotbari&show_icons=true&theme=transparent" />  
+  </p>
 
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotbari&layout=compact" />  
+  </p>
   
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotbari&layout=compact" />
 
   <h3 align="center">📫 Contact 📫</h3>
   
