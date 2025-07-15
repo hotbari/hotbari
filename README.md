@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=good code starts with good questions.'s&type=waving" />
+  <img src="https://capsule-render.vercel.app/api?text=good code starts with good questions.&type=waving" />
 
   <p>
     Python의 확장가능성을 신뢰하고 백엔드 개발에 깊은 열정을 가진 주니어 개발자입니다. <br>
