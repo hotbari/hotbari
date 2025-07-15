@@ -4,6 +4,17 @@
   <p>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=4689F7&center=true&vCenter=true&multiline=true&height=70&lines=I+believe+good+code;starts+with+good+questions!" alt="Typing SVG" /></a>
   </p>
+
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 Contact 📫 </h2> <br> 
+  
+  <a href="https://velog.io/@hotbari">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
+  
+  <a href="mailto:tangycaco@gmail.com">
+    <img src="https://img.shields.io/badge/tangycaco@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+      
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🍔 About Me 🍔 </h2> <br> 
   <p>
     I am a junior backend developer who believes in the scalability <br>
@@ -49,13 +60,5 @@
   </p>
   
 
-  <h3 align="center">📫 Contact 📫</h3>
   
-  <a href="https://velog.io/@hotbari">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp;
-  </a>
-  
-  <a href="mailto:tangycaco@gmail.com">
-    <img src="https://img.shields.io/badge/tangycaco@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
-  </a>
 </div>
