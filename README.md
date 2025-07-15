@@ -10,4 +10,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hotbari&show_icons=true&theme=transparent" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotbari&layout=compact" />
+
+  <h3 align="center">📫 Contact 📫</h3>
+  <a href="https://velog.io/@hotbari">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:tangycaco@gmail.com">
+    <img
+      src="https://img.shields.io/badge/tangycaco@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+  
 </div>
