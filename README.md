@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=I'm%20Bari&type=waving" />
 
   <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=F7832E&multiline=true&width=435&lines=I+believe+good+code;starts+with+good+questions!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=4689F7&center=true&vCenter=true&multiline=true&height=70&lines=I+believe+good+code;starts+with+good+questions!" alt="Typing SVG" /></a>
   </p>
   
   <p>
